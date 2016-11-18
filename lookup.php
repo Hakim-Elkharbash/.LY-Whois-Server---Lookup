@@ -1,4 +1,10 @@
 <?
+/*
+------- Provided by LibyaPages.. 
+------- www.LibyaPages.net
+------- info@LibyaPages.net
+*/
+
 //----- Open Socket connection to WhoIs server of Libya (whois.nic.ly) using port (43)
 $fp = fsockopen("whois.nic.ly", 43);
 
