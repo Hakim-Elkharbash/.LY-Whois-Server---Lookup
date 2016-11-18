@@ -1,5 +1,5 @@
 # .ly-whois-server
-This project explain how to checkup .ly domain availability through ccTLD of Libya (.ly whois server).
+This project explain how to check .ly domain availability through ccTLD of Libya (.ly whois server).
 ------------------
 1. Open Socket connection to WhoIs server of Libya (whois.nic.ly) using port (43)
 2. Add "\r\n" to your domain to signifying the end of a line of text and the start of a new line.
