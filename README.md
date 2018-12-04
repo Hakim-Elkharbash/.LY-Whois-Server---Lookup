@@ -1,4 +1,4 @@
-# .LY Whois Server Lookup
+# .LY Whois Server - Lookup
 - This project explains how to check .ly domain availability through ccTLD of Libya (.ly whois server).
 
 ## Steps
