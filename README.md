@@ -8,7 +8,7 @@
 - Listen for incoming data, and save it in string variable, in our case is ($whois_info).
 - Print ($whois_info) variable, OR check it to specify whether the domain registered or not.
 
-### NOTE: This example could work with other whois servers, you just need to specify the link of your whois server.
+ NOTE: This example could work with other whois servers, you just need to specify the link of your whois server.
 
 ## Version
 1.0
